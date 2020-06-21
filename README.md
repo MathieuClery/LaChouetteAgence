@@ -1,4 +1,4 @@
-# Ohmyfood
+# La Chouette Agence
 
 ## Projet dans le cadre de la formation "Développeur web" d'OpenClassrooms
 
