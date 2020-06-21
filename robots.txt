@@ -5,4 +5,4 @@ User-agent: *
 Disallow:
 
 Sitemap :https://entreprise-webdesign-lyon.netlify.app/sitemap.xml
-Sitemap-image :https://entreprise-webdesign-lyon.netlify.app/site-map-image.xml
+Sitemap :https://entreprise-webdesign-lyon.netlify.app/site-map-image.xml
