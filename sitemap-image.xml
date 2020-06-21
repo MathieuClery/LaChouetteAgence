@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://entreprise-webdesign-lyon.netlify.app/index.html</loc>
+    <image:image>
+      <image:loc>https://entreprise-webdesign-lyon.netlify.app/img/accessoires-de-prise-de-vue.jpg</image:loc>
+      <image:geo_location>Lyon, France</image:geo_location>.
+    </image:image>
+     <image:loc>https://entreprise-webdesign-lyon.netlify.app/img/bureau-agence-de-mariage.jpg</image:loc>
+      <image:geo_location>Lyon, France</image:geo_location>.
+    </image:image>
+     <image:loc>https://entreprise-webdesign-lyon.netlify.app/img/journaux-lyonnais.jpg</image:loc>
+      <image:geo_location>Lyon, France</image:geo_location>.
+    </image:image>
+     <image:loc>https://entreprise-webdesign-lyon.netlify.app/img/logo-de-la-chouette-agence.png</image:loc>
+      <image:geo_location>Lyon, France</image:geo_location>.
+    </image:image>
+     <image:loc>https://entreprise-webdesign-lyon.netlify.app/img/logo-et-nom-de-la-chouette-agence.png/</image:loc>
+      <image:geo_location>Lyon, France</image:geo_location>.
+    </image:image>
+     <image:loc>https://entreprise-webdesign-lyon.netlify.app/img/personne-faisant-un-wireframe.jpg</image:loc>
+      <image:geo_location>Lyon, France</image:geo_location>.
+    </image:image>
+     <image:loc>https://entreprise-webdesign-lyon.netlify.app/img/personne-reflechissant-a-l-ux-design.jpg</image:loc>
+      <image:geo_location>Lyon, France</image:geo_location>.
+    </image:image>
+     <image:loc>https://entreprise-webdesign-lyon.netlify.app/img/photographe-lyonnais.jpg</image:loc>
+      <image:geo_location>Lyon, France</image:geo_location>.
+    </image:image>  
+  </url> 
+</urlset> 
