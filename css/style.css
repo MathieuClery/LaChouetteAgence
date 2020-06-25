@@ -614,13 +614,6 @@ h3 {
     }
 }
 @media (min-width: 768px) {
-    .site-navigation {
-        position: absolute;
-        top: 50%;
-        right: 20px;
-        transform: translate(0, -50%);
-        -webkit-transform: translateY(-50%);
-    }
     .nav > li .dropdown-menu a,
     .nav > li .dropdown-menu a:hover {
         color: #484848;
@@ -790,8 +783,5 @@ h3 {
     }
     .cta-h2 {
          font-size: 16px;
-    }
-    #lightbox-modal {
-        display: none;
     }
 }
