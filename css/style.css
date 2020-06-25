@@ -756,7 +756,7 @@ h3 {
 }
 @media (max-width: 425px) {
     h2 {
-        font-size: 25px;
+        font-size: 16px;
     }
     .bloc {
         padding-left: 15px;
@@ -770,7 +770,7 @@ h3 {
         font-size: 14px;
     }
     .hero-bloc-text {
-        font-size: 25px;
+        font-size: 16px;
     }
     .hero-bloc-text-sub {
         font-size: 16px;
