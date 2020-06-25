@@ -373,7 +373,7 @@ a[data-lightbox]:hover img {
 }
 #lightbox-modal .modal-dialog img {
     max-height: 90vh;
-    margin: 0 0 0 25%;
+    margin: 0 0 0 33%;
     box-shadow: 0 1px 1px rgba(0,0,0,0.11), 
               0 2px 2px rgba(0,0,0,0.11), 
               0 4px 4px rgba(0,0,0,0.11), 
@@ -395,7 +395,7 @@ a[data-lightbox]:hover img {
     font-size: 30px;
     position: absolute;
     top: 20px;
-    right: 20px;
+    right: 10px;
     z-index: 20;
     background: rgba(0, 0, 0, 0.5);
     border: none;
@@ -422,11 +422,11 @@ a[data-lightbox]:hover img {
 }
 .next-lightbox {
     padding: 6px 8px 1px 13px;
-    right: 25px;
+    right: 10px;
 }
 .prev-lightbox {
     padding: 6px 13px 1px 10px;
-    left: 25px;
+    left: 10px;
 }
 
 h1,
@@ -750,6 +750,9 @@ h3 {
     .close-lightbox {
         display: inline-block;
     }
+    #lightbox-modal .modal-dialog img {
+         margin: 0 0 0 25%;
+    }
 }
 @media (max-width: 425px) {
     h2 {
@@ -791,8 +794,6 @@ h3 {
     #lightbox-modal .modal-dialog img  {
         max-width: 200px;
         height: auto;
-    }
-    #lightbox-modal .modal-dialog img {
         margin: 0 0 0 16%;
     }
 }
