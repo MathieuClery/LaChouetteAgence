@@ -798,9 +798,15 @@ h3 {
         max-width: 200px;
         height: auto;
     }
+    @media (max-width: 412px) {
+        #lightbox-modal .modal-dialog img  {
+            margin: 0 0 0 20%;
+        }
+    }
     @media (max-width: 361px) {
         #lightbox-modal .modal-dialog img  {
             margin: 0 0 0 15%;
+            max-width: 170px;
         }
     }
 }
