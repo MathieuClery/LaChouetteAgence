@@ -778,7 +778,7 @@ h3 {
        padding-right: 0;
     }
     .hero-bloc-text-2 {
-        font-size: 20px;
+        font-size: 16px;
     }
     .navbar-brand img {
         height: 28px;
@@ -787,5 +787,8 @@ h3 {
     .portfolio-thumb  {
         max-width: 250px;
         height: auto;
+    }
+    .cta-h2 {
+         font-size: 16px;
     }
 }
