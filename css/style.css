@@ -764,21 +764,21 @@ h3 {
     #lightbox-modal .modal-dialog img  {
         max-width: 200px;
         height: auto;
-        margin: 0 0 0 19%;
+        margin: 0 0 0 21%;
     }
     @media (max-width: 410px) {
         #lightbox-modal .modal-dialog img  {
-            margin: 0 0 0  16%;
+            margin: 0 0 0  18%;
         }
     }
     @media (max-width: 361px) {
         #lightbox-modal .modal-dialog img  {
-            margin: 0 0 0 14%;
+            margin: 0 0 0 16%;
         }
     }
     @media (max-width: 321px) {
         #lightbox-modal .modal-dialog img  {
-            margin: 0 0 0 8%;
+            margin: 0 0 0 11%;
         }
     }
 }      
