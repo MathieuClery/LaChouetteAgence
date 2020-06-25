@@ -605,7 +605,7 @@ h3 {
         max-width: 100%;
     }
     #lightbox-modal .modal-dialog img {
-        margin: 0 0 0 25%;
+        margin: 0 0 0 28%;
    }
 }
 @media (max-width: 991px) {
@@ -753,6 +753,9 @@ h3 {
     .close-lightbox {
         display: inline-block;
     }
+    #lightbox-modal .modal-dialog img  {
+        margin: 0 0 0 18%;
+    }
 }
 @media (max-width: 425px) {
     h2 {
@@ -794,7 +797,11 @@ h3 {
     #lightbox-modal .modal-dialog img  {
         max-width: 200px;
         height: auto;
-        margin: 0 0 0 16%;
+    }
+    @media (max-width: 361px) {
+        #lightbox-modal .modal-dialog img  {
+            margin: 0 0 0 15%;
+        }
     }
 }
 
