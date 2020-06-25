@@ -686,6 +686,7 @@ h3 {
         max-width: 200px;
         height: auto;
     }
+<<<<<<< HEAD
     @media (max-width: 767px) {
         .page-container {
             overflow-x: hidden;
@@ -806,6 +807,11 @@ h3 {
         .bloc {
             padding-left: 20px;
             padding-right: 20px;
+=======
+    @media (max-width: 361px) {
+        #lightbox-modal .modal-dialog img  {
+            margin: 0 0 0 15%;
+>>>>>>> parent of 402f916... Fix : update style.css
         }
     }
 }
