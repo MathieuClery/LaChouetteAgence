@@ -1,4 +1,3 @@
-
 @font-face {
     font-family: et-line;
     src: url(../fonts/et-line.eot);
@@ -63,11 +62,11 @@ a:hover {
     position: relative;
 }
 .bloc .container {
-    padding-left: 0;
-    padding-right: 0;
+    padding-left: 15px;
+    padding-right: 15px;
 }
 .bloc-xl {
-    padding: 100px 0;
+    padding: 100px 15px;
 }
 .bloc-lg {
     padding: 50px;
@@ -92,6 +91,8 @@ a:hover {
 }
 .cta-h2 {
     font-weight: bold !important;
+    padding-left: 15px;
+    padding-right: 15px;
 }
 .default-font-size {
     font-size: 16px;
@@ -115,6 +116,7 @@ a:hover {
 }
 .h2-contact {
     margin-top: 50px;
+    font-size: 25px;
 }
 .b-parallax {
     background-attachment: fixed;
@@ -446,7 +448,7 @@ a {
     font-size: 19px;
 }
 .hero-bloc-text-2 {
-    font-size: 35px;
+    font-size: 25px;
     font-weight: 700;
     margin-bottom: 25px;
     text-transform: uppercase;
@@ -490,6 +492,9 @@ p {
     width: 44px;
     height: 44px;
 }
+.fa:hover {
+    color: #ffffff;
+} 
 h2 {
     font-size: 30px;
     line-height: 1.4em;
@@ -513,7 +518,7 @@ h3 {
     margin-top: 24px;
 }
 .portfolio-thumb {
-    margin: 25px auto;
+    margin: 25px auto;    
 }
 .portfolio-row {
     margin-bottom: 44px;
@@ -532,7 +537,7 @@ h3 {
 }
 .black-background {
     background-color: rgba(165, 147, 99, 0.7);
-    padding: 40px 40px 40px 40px;
+    padding: 40px 5px 40px  5px;
 }
 .bgc-secondary {
     background-color: #f3976c;
@@ -660,8 +665,8 @@ h3 {
     h5,
     h6,
     p {
-        padding-left: 10px !important;
-        padding-right: 10px !important;
+        padding-left: 15px;
+        padding-right: 15px ;
     }
     .b-parallax {
         background-attachment: scroll;
@@ -719,12 +724,12 @@ h3 {
         margin-left: 10px;
     }
     .bloc {
-        padding-left: 0;
-        padding-right: 0;
+        padding-left: 15px;
+        padding-right: 15px;
     }
     .bloc-xxl,
     .bloc-xl {
-        padding: 40px 0;
+        padding: 40px 15px;
     }
     .mb-sm {
         margin-bottom: 35px;
@@ -743,7 +748,7 @@ h3 {
         margin-top: 30px;
     }
     form {
-        padding: 5px;
+        padding: 15px;
     }
     .close-lightbox {
         display: inline-block;
@@ -751,30 +756,36 @@ h3 {
 }
 @media (max-width: 425px) {
     h2 {
-        font-size: 22px;
+        font-size: 25px;
     }
     .bloc {
-        padding-left: 0;
-        padding-right: 0;
+        padding-left: 15px;
+        padding-right: 15px;
     }
     .bloc-sm {
-        padding: 20px 10px;
+        padding: 20px 15px;
     }
     .cta-hero,
     .default-font-size {
         font-size: 14px;
     }
     .hero-bloc-text {
-        font-size: 35px;
+        font-size: 25px;
     }
     .hero-bloc-text-sub {
-        font-size: 15px;
+        font-size: 16px;
+       padding-left: 0;
+       padding-right: 0;
     }
     .hero-bloc-text-2 {
-        font-size: 25px;
+        font-size: 20px;
     }
     .navbar-brand img {
         height: 28px;
         width: 150px;
+    }
+    .portfolio-thumb  {
+        max-width: 250px;
+        height: auto;
     }
 }
